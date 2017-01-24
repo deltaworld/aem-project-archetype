@@ -26,7 +26,7 @@ This project has a number features that are intended to offer a convenient start
 * Configurations
   * Device emulators displayed in the authoring interface
   * Allow direct drag & drop of assets from the content finder into parsys (6.1 TouchUI)
-  * Dictionnary structure for internationalizing hardcoded strings
+  * Dictionary structure for internationalizing hardcoded strings
 * Client libraries
   * Responsive layout with colctr that break for narrow pages
   * CSS class names follow BEM naming conventions
