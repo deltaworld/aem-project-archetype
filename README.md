@@ -1,4 +1,4 @@
-# AEM project archetype
+# AEM 6.2 project archetype
 
 [![Build Status](https://travis-ci.org/Adobe-Marketing-Cloud/aem-project-archetype.svg?branch=master)](https://travis-ci.org/Adobe-Marketing-Cloud/aem-project-archetype)
 
