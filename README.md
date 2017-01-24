@@ -21,7 +21,7 @@ This project has a number features that are intended to offer a convenient start
   * Topnav: simple custom Sightly component
   * Logo: based on foundation
 * Content Components
-  * helloworld: example of custom Sightly component with SlingModels for the logic
+  * helloworld: example of custom HTL component with SlingModels for the logic
   * colctrl, textimage, text, image, title: use the Sightly foundation components
 * Configurations
   * Device emulators displayed in the authoring interface
