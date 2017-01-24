@@ -14,15 +14,15 @@ This project has a number features that are intended to offer a convenient start
   * For homepage and content pages
   * Homepages are only allowed on top level, and content pages below
 * Page component
-  * Built with Sightly templates and simple server-side JavaScript logic
+  * Built with HTL templates and simple server-side JavaScript logic
   * The CSS class on the body element changes based on page template
   * Internationalized footer text as example
 * Structure Components
-  * Topnav: simple custom Sightly component
+  * Topnav: simple custom HTL component
   * Logo: based on foundation
 * Content Components
   * helloworld: example of custom HTL component with SlingModels for the logic
-  * colctrl, textimage, text, image, title: use the Sightly foundation components
+  * colctrl, textimage, text, image, title: use the HTL foundation components
 * Configurations
   * Device emulators displayed in the authoring interface
   * Allow direct drag & drop of assets from the content finder into parsys (6.1 TouchUI)
